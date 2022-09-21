@@ -3,7 +3,7 @@ certifi==2020.6.20
 cffi==1.14.0
 cryptography==2.9.2
 Django==2.2.13
-jwcrypto==0.7
+jwcrypto==1.4
 psycopg2==2.8.5
 pycparser==2.20
 PyJWT==1.7.1
